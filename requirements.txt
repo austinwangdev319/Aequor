@@ -1,0 +1,6 @@
+numpy
+scripy
+matplotlib
+pynput
+PyQt5
+PyWavelets
