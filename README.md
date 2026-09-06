@@ -36,7 +36,7 @@ Provides a low-latency coordinate write-back mechanism that overrides the operat
 Python 3.8 or higher is required. Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/Aequor.git
+git clone https://github.com/austinwangdev319/Aequor.git
 cd Aequor
 pip install -r requirements.txt
 
