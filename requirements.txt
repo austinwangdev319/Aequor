@@ -1,5 +1,5 @@
 numpy
-scripy
+scipy
 matplotlib
 pynput
 PyQt5
