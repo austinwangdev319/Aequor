@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ### 2. Launch the Application
 
 ```bash
-python aequor_app.py
+python app.py
 
 ```
 
