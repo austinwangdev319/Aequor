@@ -2,10 +2,6 @@
 
 **A Real-Time Adaptive Cursor Stabilization and Visualization System for Hand Tremors**
 
-> *"Intent is like still water, while tremor is like wind blowing ripples. We cannot stop the wind from blowing, but we can build a harbor between fingertips and screens to calm the waves."*
-
----
-
 ## Overview
 
 **Aequor** (derived from the Latin term for *calm, still water*) is a digital cursor stabilization system specifically designed for individuals experiencing physiological or pathological hand tremors (4–12 Hz).
